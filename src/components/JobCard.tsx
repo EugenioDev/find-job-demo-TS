@@ -1,6 +1,6 @@
 import React from 'react'
 import { JobsEntity } from '../Model/JobModel'
-import { Link } from 'react-router-dom'
+
 
 export interface JobProps {
     job: JobsEntity
